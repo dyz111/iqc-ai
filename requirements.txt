@@ -1,0 +1,5 @@
+pydantic-settings
+langchain-openai
+fastapi
+uvicorn
+pytest
